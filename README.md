@@ -8,29 +8,16 @@ A collection of HTML practical webpages created by Riddhima to explore HTML tags
 
 A webpage presenting semester subjects, programming languages, course descriptions, nested lists, and project work.
 
-Tags used: "h1", "h2", "p", "b", "i", "u", "hr", "br", "ol", "ul", "li", "dl", "dt", "dd"
-
-"View HTML File" (Course%20Curriculum.html)
-
 2. News — Experiment 2
 
 A webpage demonstrating webpage navigation, hyperlinks, embedded videos, and multimedia content.
 
-Tags and elements: "a", "iframe", "video", "source", "img", "div", "h1", "h2", "p"
-
-Attributes: "href", "src", "target", "controls", "width", "height"
-
-"View HTML File" (News.html)
 
 3. College Timetable
 
 A weekly timetable for the CSE department, organized using table rows, columns, merged cells, and a nested table for lab details.
 
-Tags used: "table", "caption", "tr", "th", "td", "br", "b"
-
-Attributes: "rowspan", "colspan", "border", "align", "cellpadding", "cellspacing"
-
-"View HTML File" (College%20TimeTable.html)
+html)
 
 🛠️ Technologies
 
