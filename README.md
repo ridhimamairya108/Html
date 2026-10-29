@@ -1,59 +1,49 @@
-HTML Web Development Projects
+HTML Practical Projects
 
-Name: Riddhima
+A collection of HTML practical webpages created by Riddhima to explore HTML tags, lists, hyperlinks, multimedia embedding, and tables.
 
-GitHub Repository: "Html" (https://github.com/ridhimamairya108/Html)
-
-This repository contains three HTML practical projects demonstrating webpage structure, multimedia embedding, hyperlinks, lists, and tables.
-
-📂 Projects Included
+📁 Projects
 
 1. Course Curriculum
 
-A webpage displaying course subjects, curriculum details, and programming languages using headings, paragraphs, and different types of lists.
+A webpage presenting semester subjects, programming languages, course descriptions, nested lists, and project work.
 
-HTML tags used:
-"<html>", "<head>", "<title>", "<body>", "<h1>", "<h2>", "<p>", "<b>", "<i>", "<u>", "<br>", "<hr>", "<ol>", "<ul>", "<li>", "<dl>", "<dt>", "<dd>"
+Tags used: "h1", "h2", "p", "b", "i", "u", "hr", "br", "ol", "ul", "li", "dl", "dt", "dd"
 
-2. News – Experiment 2
+"View HTML File" (Course%20Curriculum.html)
 
-A webpage demonstrating video embedding, hyperlinks, multimedia content, and other HTML elements used to enhance webpage presentation and navigation.
+2. News — Experiment 2
 
-HTML tags used:
-"<html>", "<head>", "<title>", "<body>", "<h1>", "<h2>", "<p>", "<a>", "<video>", "<source>", "<iframe>", "<img>", "<div>", "<br>", "<hr>"
+A webpage demonstrating webpage navigation, hyperlinks, embedded videos, and multimedia content.
 
-Important attributes: "href", "src", "target", "controls", "width", "height", "type", "alt"
+Tags and elements: "a", "iframe", "video", "source", "img", "div", "h1", "h2", "p"
+
+Attributes: "href", "src", "target", "controls", "width", "height"
+
+"View HTML File" (News.html)
 
 3. College Timetable
 
-A webpage displaying a weekly college timetable using rows, columns, and merged table cells.
+A weekly timetable for the CSE department, organized using table rows, columns, merged cells, and a nested table for lab details.
 
-HTML tags used:
-"<html>", "<head>", "<title>", "<body>", "<table>", "<caption>", "<tr>", "<th>", "<td>", "<br>", "<b>"
+Tags used: "table", "caption", "tr", "th", "td", "br", "b"
 
-Important attributes:
+Attributes: "rowspan", "colspan", "border", "align", "cellpadding", "cellspacing"
 
-- "rowspan" – Merges cells vertically.
-- "colspan" – Merges cells horizontally.
-- "border" – Specifies table borders.
-- "cellpadding" – Adds space inside cells.
-- "cellspacing" – Specifies space between cells.
+"View HTML File" (College%20TimeTable.html)
 
-🛠️ Technologies Used
+🛠️ Technologies
 
 - HTML5
-- Text Editor
 - Web Browser
 - GitHub
 
-▶️ How to Run
+▶️ Usage
 
-1. Download or clone this repository.
-2. Open the required ".html" file in a web browser.
-3. View the webpage in your browser.
+Download or clone the repository and open any ".html" file in a web browser.
 
 👩‍💻 Author
 
 Riddhima
 
-"GitHub Profile" (https://github.com/ridhimamairya108)
+"GitHub Repository" (https://github.com/ridhimamairya108/Html)
